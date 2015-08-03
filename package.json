@@ -7,5 +7,8 @@
     "type": "git",
     "url": "git@github.com:joemcbride/cssnamespace-loader.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  }
 }
