@@ -1,6 +1,6 @@
 {
   "name": "cssnamespace-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Joe Mcbride",
   "description": "css namespace loader module for webpack",
   "repository": {
