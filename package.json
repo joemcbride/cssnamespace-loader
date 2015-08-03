@@ -1,0 +1,11 @@
+{
+  "name": "cssnamespace-loader",
+  "version": "0.0.1",
+  "author": "Joe Mcbride",
+  "description": "css namespace loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joemcbride/cssnamespace-loader.git"
+  },
+  "license": "MIT"
+}
